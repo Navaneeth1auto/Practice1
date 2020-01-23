@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-23T04:52:46Z" name="Default suite" finished-at="2020-01-23T04:52:48Z" duration-ms="1842">
+    <groups>
+    </groups>
+    <test started-at="2020-01-23T04:52:46Z" name="Default test" finished-at="2020-01-23T04:52:48Z" duration-ms="1842">
+      <class name="dataProvider.DataPvdCls">
+        <test-method signature="dataProviderEx(java.lang.String, java.lang.String)[pri:0, instance:dataProvider.DataPvdCls@37271612]" started-at="2020-01-23T04:52:48Z" name="dataProviderEx" data-provider="credentials" finished-at="2020-01-23T04:52:48Z" duration-ms="38" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UserName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataProviderEx -->
+        <test-method signature="dataProviderEx(java.lang.String, java.lang.String)[pri:0, instance:dataProvider.DataPvdCls@37271612]" started-at="2020-01-23T04:52:48Z" name="dataProviderEx" data-provider="credentials" finished-at="2020-01-23T04:52:48Z" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9900877870]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nav@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataProviderEx -->
+        <test-method signature="dataProviderEx(java.lang.String, java.lang.String)[pri:0, instance:dataProvider.DataPvdCls@37271612]" started-at="2020-01-23T04:52:48Z" name="dataProviderEx" data-provider="credentials" finished-at="2020-01-23T04:52:48Z" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[knavaneeth003@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nav@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataProviderEx -->
+        <test-method signature="dataProviderEx(java.lang.String, java.lang.String)[pri:0, instance:dataProvider.DataPvdCls@37271612]" started-at="2020-01-23T04:52:48Z" name="dataProviderEx" data-provider="credentials" finished-at="2020-01-23T04:52:48Z" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Navaneeth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9900877870]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataProviderEx -->
+        <test-method signature="dataProviderEx(java.lang.String, java.lang.String)[pri:0, instance:dataProvider.DataPvdCls@37271612]" started-at="2020-01-23T04:52:48Z" name="dataProviderEx" data-provider="credentials" finished-at="2020-01-23T04:52:48Z" duration-ms="17" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[589756]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataProviderEx -->
+        <test-method signature="dataProviderEx(java.lang.String, java.lang.String)[pri:0, instance:dataProvider.DataPvdCls@37271612]" started-at="2020-01-23T04:52:48Z" name="dataProviderEx" data-provider="credentials" finished-at="2020-01-23T04:52:48Z" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Phanni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9876541]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataProviderEx -->
+      </class> <!-- dataProvider.DataPvdCls -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
